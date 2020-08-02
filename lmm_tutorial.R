@@ -88,4 +88,3 @@ summary(mountain.lm) # body length non significant
 ## we want to test effect of body length and control for the variation coming from mountain ranges: use random factors
 
 ### 6. MIXED EFFECTS MODELS ----
-
